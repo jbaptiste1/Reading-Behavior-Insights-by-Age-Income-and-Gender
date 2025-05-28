@@ -1,4 +1,4 @@
-# Reading-Behavior-Insights-by-Age-Income-and-Gender
+# Reading Behavior Insights by Age Income and Gender
 
 This project explores media consumption habits. The main sources I analyzed include books, magazines, and audiobooks. The data is based on demographic information, including age, income, employment status, gender, and other factors. Using Excel, I cleaned and transformed the data, created new columns (such as generation categories), and built pivot tables to support a simple, interactive dashboard.
 
@@ -16,9 +16,9 @@ Built pivot tables to summarize media consumption patterns for books, magazines,
 Designed an interactive dashboard in Excel using pivot charts and slicers for easy exploration.
 
 # Files
-media_consumption_dashboard.xlsx — Final Excel file with pivot tables and dashboard
+Audiobook Demographic Dashboard.xlsx — Final Excel file with pivot tables and dashboard
 
-original_media_data.csv — Raw dataset downloaded from Kaggle
+BigML_Dataset_5f50a62795a9306aa200003e.csv — Raw dataset downloaded from Kaggle
 
-dashboard_screenshot.png — Screenshot preview of the Excel dashboard
+Excel Dashboard Screenshot.png — Screenshot preview of the Excel dashboard
 
